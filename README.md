@@ -77,4 +77,4 @@ This tool is intended for **screening purposes only** and does not replace profe
 
 **Shalvi Srivastava**  
 B.Tech ECE, IGDTUW Delhi  
-[GitHub](https://github.com/ShalviSrivastava) | [LinkedIn](your-linkedin-url)
+[GitHub](https://github.com/ShalviSrivastava) | [LinkedIn](https://www.linkedin.com/in/shalvi-srivastava-675216329/)
